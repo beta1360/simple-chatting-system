@@ -10,12 +10,12 @@ However, the chatting system will offer basic features.</br>
 **1. Server**
 
 ```
-ChattingProgramServer <port>
+$ ChattingProgramServer <port>
 ```
 
 **2. Client**
 ```
-ChattingProgramClient <server_ip> <server_port> <nickname>
+$ ChattingProgramClient <server_ip> <server_port> <nickname>
 ```
 
 - But this system is executed only Window OS.
